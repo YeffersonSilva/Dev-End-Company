@@ -5,17 +5,17 @@ export const FEATURES_DATA = [
   {
     id: "feat_1",
     title: "AI-Assisted Requirement Management",
-    image: Images.ai_assisted,
+    image: Images.burguer,
   },
   {
     id: "feat_2",
     title: "Efficient AI-Driven Communication",
-    image: Images.ai_driven,
+    image: Images.peluqueria,
   },
   {
     id: "feat_3",
     title: "Scope Creep Management",
-    image: Images.scope,
+    image: Images.casa,
   },
 ];
 

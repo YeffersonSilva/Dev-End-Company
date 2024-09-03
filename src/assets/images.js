@@ -1,4 +1,4 @@
-import ai_assisted from "./images/ai_assisted.png";
+import ai_assisted from "./images/peluqueria.png";
 import ai_driven from "./images/ai_driven.png";
 import ai_process from "./images/ai_process.png";
 import ai_test_case from "./images/ai_test_case.png";
@@ -11,6 +11,11 @@ import process_map from "./images/process_map.png";
 import scope from "./images/scope.png";
 import sync_tools from "./images/sync_tools.png";
 import user_stories from "./images/user_stories.png";
+import desboard from "./images/desboard.png";
+import peluqueria from "./images/peluqueria.png";
+import burguer from "./images/burguer.png";
+import mobile from "./images/mobile.png";
+import casa from "./images/casa.png";
 
 export const Images = {
   ai_assisted,
@@ -26,4 +31,9 @@ export const Images = {
   scope,
   sync_tools,
   user_stories,
+  desboard,
+  peluqueria,
+  burguer,
+  mobile,
+  casa
 };
