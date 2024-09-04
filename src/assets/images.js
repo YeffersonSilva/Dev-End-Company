@@ -17,6 +17,11 @@ import burguer from "./images/burguer.png";
 import mobile from "./images/mobile.png";
 import casa from "./images/casa.png";
 import tables from "./images/02.png";
+import inmobiliria from "./images/inmobiliria1.png";
+import ropa from "./images/ropa.png";
+import mobile2 from "./images/modile2.png";
+
+
 
 export const Images = {
   ai_assisted,
@@ -38,4 +43,7 @@ export const Images = {
   mobile,
   casa,
   tables,
+  inmobiliria,
+  ropa,
+  mobile2
 };

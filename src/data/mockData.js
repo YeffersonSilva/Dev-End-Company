@@ -31,21 +31,21 @@ export const FEATURES_GRID_DATA = [
     id: "feat_grid_2",
     title: "Automatic AI Generated User Stories",
     description: "Create User Stories with AI based on your User Journeys.",
-    image: Images.user_stories,
+    image: Images.inmobiliria,
   },
   {
     id: "feat_grid_3",
     title: "AI Test Case Generation",
     description:
       "Easily Sync your User Import Designs seamlessly to create Acceptance Criteria for every screen and each User Story. Stories, Epics, and Acceptance Criteria to Jira or Azure for production.",
-    image: Images.ai_test_case,
+    image: Images.ropa,
   },
   {
     id: "feat_grid_4",
     title: "Import your Designs",
     description:
       "Import your designs from Figma seamlessly and use AI to narrate your user flows.",
-    image: Images.import_design,
+    image: Images.mobile2,
   },
   {
     id: "feat_grid_5",
