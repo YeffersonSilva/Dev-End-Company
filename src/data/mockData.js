@@ -52,7 +52,7 @@ export const FEATURES_GRID_DATA = [
     title: "Sync to your Tools",
     description:
       "Easily Sync your User Stories, Epics, and Acceptance Criteria to Jira or Azure for production.",
-    image: Images.sync_tools,
+    image: Images.comida,
   },
 ];
 
