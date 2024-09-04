@@ -4,17 +4,17 @@ import { Images } from "../assets/images";
 export const FEATURES_DATA = [
   {
     id: "feat_1",
-    title: "AI-Assisted Requirement Management",
+    title: "Restaurante",
     image: Images.burguer,
   },
   {
     id: "feat_2",
-    title: "Efficient AI-Driven Communication",
+    title: "Peluqeueria",
     image: Images.peluqueria,
   },
   {
     id: "feat_3",
-    title: "Scope Creep Management",
+    title: "Inmobiliaria",
     image: Images.casa,
   },
 ];
