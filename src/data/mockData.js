@@ -22,10 +22,10 @@ export const FEATURES_DATA = [
 export const FEATURES_GRID_DATA = [
   {
     id: "feat_grid_1",
-    title: "AI Process Map Generation",
+    title: "Los mejores diseños",
     description:
       "Generate User Journeys and automate the Journey creation flow with AI",
-    image: Images.ai_process,
+    image: Images.tables,
   },
   {
     id: "feat_grid_2",

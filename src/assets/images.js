@@ -16,6 +16,7 @@ import peluqueria from "./images/peluqueria.png";
 import burguer from "./images/burguer.png";
 import mobile from "./images/mobile.png";
 import casa from "./images/casa.png";
+import tables from "./images/02.png";
 
 export const Images = {
   ai_assisted,
@@ -35,5 +36,6 @@ export const Images = {
   peluqueria,
   burguer,
   mobile,
-  casa
+  casa,
+  tables,
 };

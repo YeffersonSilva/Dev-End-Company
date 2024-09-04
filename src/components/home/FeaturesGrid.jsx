@@ -51,8 +51,7 @@ const FeaturesGrid = () => {
   return (
     <section className="py-[65px] text-white px-4">
       <h2 className="text-center lg:text-3xl md:text-2xl text-xl font-semibold font-montserrat max-w-[986px] mx-auto">
-        Never waste more than a day handing over design requirements with these
-        features:
+      En GTMConcepts, transformamos tus ideas en soluciones tecnológicas que impulsan tu negocio hacia el éxito
       </h2>
       <div className="max-w-[1200px] mx-auto lg:mt-[65px] mt-10">
         <div className="grid grid-cols-3 xxl:gap-10 xl:gap-8 lg:gap-6 gap-4 lg:mt-[65px] mt-10">
@@ -84,7 +83,7 @@ const FeaturesGrid = () => {
                   >
                     <img className={`z-10 relative ${featuredGridSettings[index].cardImgPadding}`} src={image} alt="" />
                     <div className={`gap-y-2 flex flex-col items-center text-center relative z-10 ${featuredGridSettings[index].cardContentPadding}`}>
-                      <h4 className="lg:text-2xl md:text-xl text-lg text-white font-montserrat text-center font-semibold">
+                      <h4 className="text-lg font-semibold text-center text-white lg:text-2xl md:text-xl font-montserrat">
                         {title}
                       </h4>
                       <p className="text-white lg:text-base tet-sm">
