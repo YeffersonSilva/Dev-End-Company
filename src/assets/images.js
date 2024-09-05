@@ -20,7 +20,7 @@ import tables from "./images/02.png";
 import inmobiliria from "./images/inmobiliria1.png";
 import ropa from "./images/ropa.png";
 import mobile2 from "./images/modile2.png";
-import comida from "./images/comida.png";
+import comida from "./images/comida1.png";
 
 
 

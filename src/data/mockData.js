@@ -22,61 +22,62 @@ export const FEATURES_DATA = [
 export const FEATURES_GRID_DATA = [
   {
     id: "feat_grid_1",
-    title: "Los mejores diseños",
+    title: "Diseños a medida",
     description:
-      "Generate User Journeys and automate the Journey creation flow with AI",
+      "Creamos sitios web y aplicaciones personalizadas, adaptadas a las necesidades únicas de cada negocio.",
     image: Images.tables,
   },
   {
     id: "feat_grid_2",
-    title: "Automatic AI Generated User Stories",
-    description: "Create User Stories with AI based on your User Journeys.",
+    title: "Funcionalidad optimizada",
+    description: "Desarrollamos soluciones con funcionalidades precisas para mejorar la eficiencia de tu negocio.",
     image: Images.inmobiliria,
   },
   {
     id: "feat_grid_3",
-    title: "AI Test Case Generation",
+    title: "Interfaces intuitivas",
     description:
-      "Easily Sync your User Import Designs seamlessly to create Acceptance Criteria for every screen and each User Story. Stories, Epics, and Acceptance Criteria to Jira or Azure for production.",
+      "Diseñamos interfaces amigables y fáciles de usar, brindando una experiencia excepcional a tus clientes.",
     image: Images.ropa,
   },
   {
     id: "feat_grid_4",
-    title: "Import your Designs",
+    title: "Integración con herramientas clave",
     description:
-      "Import your designs from Figma seamlessly and use AI to narrate your user flows.",
+      "Integramos tus aplicaciones con herramientas y plataformas que usas diariamente para maximizar tu productividad.",
     image: Images.mobile2,
   },
   {
     id: "feat_grid_5",
-    title: "Sync to your Tools",
+    title: "Soporte continuo",
     description:
-      "Easily Sync your User Stories, Epics, and Acceptance Criteria to Jira or Azure for production.",
+      "Ofrecemos soporte y mantenimiento para garantizar que tu web o app funcione siempre de forma óptima.",
     image: Images.comida,
   },
 ];
+
 
 export const UPLIFT_DELIVERY_DATA = [
   {
     id: "uplift_1",
     icon: Icons.storage,
-    title: "80% savings on testing expenditure",
+    title: "Reducción de costos operativos",
     description:
-      "Achieve over $70,000 in testing cost savings, automate QA roles within agile squads, and enhance communication among BAs, Developers, and Product Owners for streamlined operations and improved collaboration.",
+      "Optimiza los costos de desarrollo y mantenimiento de tu web o app personalizada, mejorando la eficiencia del equipo de trabajo y reduciendo el tiempo de entrega.",
   },
   {
     id: "uplift_2",
     icon: Icons.spiral,
-    title: "Never lose track of your features",
+    title: "Control total sobre tus funcionalidades",
     description:
-      "Streamline documentation across JIRA, Confluence, and git repositories, gain instant product insights, and maintain testing traceability with our comprehensive test script dashboard.",
+      "Mantén la visibilidad de cada funcionalidad de tu proyecto con documentación clara e integraciones con herramientas clave como JIRA y Git para un seguimiento efectivo.",
   },
   {
     id: "uplift_3",
     icon: Icons.code,
-    title: "Less meetings more coding",
+    title: "Más desarrollo, menos interrupciones",
     description:
-      "ReqOPS requirement briefs are detailed to ensure your engineers enjoy working with us. We provide comprehensive user stories, functional UI test cases, CI integration, automated process flow generation, AI workshops, and more.",
+      "Facilitamos la comunicación y planificación del proyecto para que tu equipo pueda centrarse en lo que realmente importa: desarrollar soluciones eficientes y personalizadas.",
   },
 ];
 
