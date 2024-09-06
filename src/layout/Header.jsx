@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { IoMdClose } from "react-icons/io";
 import { MdMenu } from "react-icons/md";
 import { useState } from "react";
-import logo12 from "../assets/images/logo.png"; // Importa tu imagen PNG
+//import logo12 from "../assets/images/logo.png"; // Importa tu imagen PNG
 
 const Header = () => {
   const [isNavbarOpen, setIsNavbarOpen] = useState(false);
@@ -20,14 +20,13 @@ const Header = () => {
             to={routesConstants.ROOT}
             className="max-w-[300px] lg:max-w-[165px] md:max-w-[300px]"
           >
-            <img src={logo12} alt="site logo" /> {/* Reemplaza el ícono con la imagen PNG */}
+            <h1 className="text-4xl font-bold text-white">GTM</h1> {/* Reemplaza la imagen con un h1 */}
           </Link>
           <nav
             className={`lg:relative lg:right-auto lg:top-auto lg:bg-transparent lg:p-0 fixed right-0 top-0 bg-errie-black h-full z-50 p-5 sm:w-[300px] w-full translate-alls ease-in-out duration-300 shadow-navbar lg:shadow-none lg:translate-x-0 ${
               isNavbarOpen ? "translate-x-0" : "translate-x-full"
             }`}
           >
-
             <div className="flex justify-end mb-10 transition-all duration-300 ease-in-out lg:hidden hover:opacity-80">
               <button type="button" onClick={toggleNavbar}>
                 <IoMdClose size={32} />
