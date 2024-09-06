@@ -36,7 +36,8 @@ const Framework = () => {
     <section className="lg:py-[65px] py-10 text-white px-4">
       <div className="max-w-[1200px] mx-auto">
         <h3 className="lg:text-3xl md:text-2xl text-xl text-center font-semibold max-w-[767px] mx-auto">
-          Transform work practices forever. <br /> Our Framework for the future:
+        Transforma las prácticas laborales para siempre. <br /> Nuestro marco para el futuro:
+
         </h3>
         <div className="grid xxl:gap-y-[30px] xl:gap-y-6 gap-y-4 items-start lg:mt-[65px] mt-10">
           {FRAMEWORK_DATA?.map(({ id, title, image, description }, index) => {
@@ -76,10 +77,10 @@ const Framework = () => {
                       "lg:py-10 pt-6 pe-6"
                     }`}
                   >
-                    <h3 className="lg:text-2xl md:text-xl text-lg font-semibold mb-3">
+                    <h3 className="mb-3 text-lg font-semibold lg:text-2xl md:text-xl">
                       {title}
                     </h3>
-                    <p className="lg:text-xl md:text-lg text-base font-source-sans font-normal">
+                    <p className="text-base font-normal lg:text-xl md:text-lg font-source-sans">
                       {description}
                     </p>
                   </div>

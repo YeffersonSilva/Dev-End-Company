@@ -85,74 +85,76 @@ export const COLLECTIVE_DELIVERY_DATA = [
   {
     id: "collective_1",
     icon: Icons.project_cord,
-    title: "Project Coordination",
+    title: "Coordinación de Proyectos",
     description:
-      "Ensure efficient planning, execution, and completion of projects, keeping them on schedule and within budget.",
+      "Garantizamos una planificación, ejecución y finalización eficientes de tus proyectos de software, manteniéndolos dentro del cronograma y presupuesto establecidos.",
   },
   {
     id: "collective_2",
     icon: Icons.risk_mgmt,
-    title: "Risk Management",
+    title: "Gestión de Riesgos",
     description:
-      "Proactively identify and mitigate risks to prevent delays and project failures.",
+      "Identificamos y mitigamos riesgos proactivamente para prevenir retrasos y asegurar el éxito del proyecto.",
   },
   {
     id: "collective_3",
     icon: Icons.communication,
-    title: "Communication",
+    title: "Comunicación Efectiva",
     description:
-      "They maintain open communication between teams and stakeholders, ensuring alignment and clarity on project goals.",
+      "Mantenemos una comunicación abierta entre equipos y partes interesadas, asegurando alineación y claridad en los objetivos del proyecto.",
   },
   {
     id: "collective_4",
     icon: Icons.strategic_align,
-    title: "Strategic Alignment",
+    title: "Alineación Estratégica",
     description:
-      "They ensure projects align with and contribute to the organisation’s strategic objectives.",
+      "Aseguramos que los proyectos de software se alineen con los objetivos estratégicos de tu negocio y contribuyan a su crecimiento.",
   },
   {
     id: "collective_5",
     icon: Icons.scope_mgmt,
-    title: "Scope Management",
+    title: "Gestión del Alcance",
     description:
-      "Changes in project scope or resources, adapting strategies to ensure successful outcomes.",
+      "Gestionamos los cambios en el alcance del proyecto o los recursos, adaptando estrategias para garantizar resultados exitosos.",
   },
   {
     id: "collective_6",
     icon: Icons.quality_assur,
-    title: "Quality Assurance",
+    title: "Garantía de Calidad",
     description:
-      "Oversee project standards and quality, ensuring outputs meet or exceed expectations.",
+      "Supervisamos los estándares y la calidad del proyecto para asegurar que los resultados cumplan o superen las expectativas.",
   },
 ];
+
 
 export const FRAMEWORK_DATA = [
   {
     id: "framework_1",
     image: Images.framework1,
-    title: "Requirements Management",
+    title: "Gestión de Requisitos Personalizados",
     description:
-      "Track project progress, health, risks, and status. Log feedback, and monitor scope creep to ensure stakeholders are always informed, providing a clear and up-to-date understanding of the project's status for effective decision-making and smoother execution.",
+      "Controla el progreso y la salud de tus proyectos de software, registrando comentarios y ajustando los requisitos a medida que evolucionan, asegurando que tu solución siempre cumpla con las necesidades específicas de tu negocio.",
   },
   {
     id: "framework_2",
     image: Images.framework2,
-    title: "Automatic BPMN 2.0 Generation",
+    title: "Diseño de Soluciones Personalizadas",
     description:
-      "Leverage intuitive AI to create Process Maps, User Journeys, and flows automatically. Generate diagrams for each feature effortlessly, eliminating the need for manual layout and streamlining the visualization process.",
+      "Genera de manera automática diagramas y flujos adaptados a tus necesidades específicas. Visualiza de manera clara y sencilla cada funcionalidad del software sin complicaciones, facilitando el proceso de desarrollo.",
   },
   {
     id: "framework_3",
     image: Images.framework3,
-    title: "Test Automation",
+    title: "Automatización de Pruebas Personalizadas",
     description:
-      "Simplify the creation of Acceptance Criteria and execution of automated test scripts. Track testing progress and eliminate the need for manual testing, enhancing efficiency and accuracy in the testing process.",
+      "Automatiza la creación de criterios de aceptación y la ejecución de pruebas específicas para tu software. Realiza un seguimiento eficiente del progreso de las pruebas y asegura que el software cumpla con los estándares de calidad esperados.",
   },
   {
     id: "framework_4",
     image: Images.framework4,
-    title: "Integrate into your existing ecosystem",
+    title: "Integración Perfecta en Tu Ecosistema",
     description:
-      "Integrate into your existing ecosystem seamlessly by syncing Reqops with tools like Jira, Azure, and Asana. Continue using your preferred tools while Reqops creates and manages your tickets, saving you the time and effort of manual ticket creation.",
+      "Integra nuestras soluciones de software en tu infraestructura actual, sincronizando con herramientas y plataformas que ya usas. Asegura una transición fluida y mantiene la continuidad operativa sin interrupciones.",
   },
 ];
+
